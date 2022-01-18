@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LabAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="book_list_fragment_label">Book List</string>
+    <string name="book_edit_fragment_label">Book Edit</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must not be empty</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="price">Price:</string>
+    <string name="isAvailable">Availability:</string>
+    <string name="title">Title:</string>
+    <string name="author">Author:</string>
+    <string name="dateOfPublication">Date of publication:</string>
+</resources>
+
